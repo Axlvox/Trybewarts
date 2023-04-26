@@ -10,18 +10,15 @@
     left: 70%;
     flex-direction: row;
 }
-
 #principal{
     display: flex;
     width: 675px;
 }
-
 #nomeESobrenome{
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
 }
-
 #emailECasa{
     display: flex;
     flex-direction: row;
@@ -35,9 +32,6 @@
     flex-direction: column;
     flex-wrap: nowrap;
 }
-
-
-
 #trybewarts-forms-logo{
  height: 500px;
  right: 30px;
