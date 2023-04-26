@@ -55,3 +55,7 @@
     flex-direction: row;
     
 }
+#label-family{
+    display: flex;
+    flex-direction: row;
+}
