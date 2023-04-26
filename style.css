@@ -15,9 +15,15 @@
     display: flex;
     width: 675px;
 }
-
 #evaluation-form{
     position: absolute;
     display: flex;
     width: 675px;
+    flex-direction: column
+}
+
+#trybewarts-forms-logo{
+ height: 500px;
+ right: 30px;
+ position: absolute;
 }
