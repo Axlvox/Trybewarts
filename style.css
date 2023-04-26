@@ -27,3 +27,11 @@
  right: 30px;
  position: absolute;
 }
+
+#input-name{
+    display: inline;
+}
+
+#input-lastname{
+    display: inline;
+}
