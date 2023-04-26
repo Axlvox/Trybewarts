@@ -15,12 +15,28 @@
     display: flex;
     width: 675px;
 }
+
+#nomeESobrenome{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+#emailECasa{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap; 
+}
+
 #evaluation-form{
     position: absolute;
     display: flex;
     width: 675px;
-    flex-direction: column
+    flex-direction: column;
+    flex-wrap: nowrap;
 }
+
+
 
 #trybewarts-forms-logo{
  height: 500px;
@@ -29,9 +45,13 @@
 }
 
 #input-name{
-    display: inline;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
 }
 
 #input-lastname{
-    display: inline;
+    display: flex;
+    flex-direction: row;
+    
 }
