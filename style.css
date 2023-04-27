@@ -61,8 +61,23 @@
     flex-direction: row;
     flex-wrap: nowrap;
 }
+
+
 .texto{
     position: relative;
     top: 310px;
     right: 380px;
+}
+
+#agreement{
+    position: relative;
+    top: 500px;
+    right: 470px;
+}
+
+#label-infos{
+    position: relative;
+    top: 480px;
+    right: 800px;
+    white-space: nowrap;
 }
