@@ -1,84 +1,84 @@
 .header {
-    display: flex;
-    background-color: rgb(50, 167, 145);
-  
-  }
-  
-  .trybewarts-login {
-    display: flex;
-    position: absolute;
-    top: 30px;
-    left: 70%;
-    flex-direction: row;
-  }
-  
-  #principal {
-    display: flex;
-    width: 675px;
-  }
-  
-  #nomeESobrenome {
-    display: flex;
-    flex-flow: row nowrap;
-  }
-  
-  #emailECasa {
-    display: flex;
-    flex-flow: row nowrap;
-  }
-  
-  #evaluation-form {
-    position: absolute;
-    display: flex;
-    width: 675px;
-    flex-flow: row nowrap;
-  }
-  
-  #trybewarts-forms-logo {
-    height: 500px;
-    right: 30px;
-    position: absolute;
-  }
-  
-  #input-name {
-    display: flex;
-    flex-flow: row nowrap;
-  }
-  
-  #input-lastname {
-    display: flex;
-    flex-direction: row;
-  
-  }
-  
-  #label-family {
-    display: flex;
-    flex-direction: row;
-  }
-  
-  .avaliacao {
-    position: relative;
-    top: 200px;
-    display: flex;
-    flex-flow: row nowrap;
-  }
-  
-  
-  .texto {
-    position: relative;
-    top: 310px;
-    right: 380px;
-  }
-  
-  #agreement {
-    position: relative;
-    top: 500px;
-    right: 470px;
-  }
-  
-  #label-infos {
-    position: relative;
-    top: 480px;
-    right: 800px;
-    white-space: nowrap;
-  }
+  display: flex;
+  background-color: rgb(50, 167, 145);
+
+}
+
+.trybewarts-login {
+  display: flex;
+  position: absolute;
+  top: 30px;
+  left: 70%;
+  flex-direction: row;
+}
+
+#principal {
+  display: flex;
+  width: 675px;
+}
+
+#nomeESobrenome {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+#emailECasa {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+#evaluation-form {
+  position: absolute;
+  display: flex;
+  width: 675px;
+  flex-flow: row nowrap;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+  right: 30px;
+  position: absolute;
+}
+
+#input-name {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+#input-lastname {
+  display: flex;
+  flex-direction: row;
+
+}
+
+#label-family {
+  display: flex;
+  flex-direction: row;
+}
+
+.avaliacao {
+  position: relative;
+  top: 200px;
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+
+.texto {
+  position: relative;
+  top: 310px;
+  right: 380px;
+}
+
+#agreement {
+  position: relative;
+  top: 500px;
+  right: 470px;
+}
+
+#label-infos {
+  position: relative;
+  top: 480px;
+  right: 800px;
+  white-space: nowrap;
+}
