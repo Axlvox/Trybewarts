@@ -1,89 +1,84 @@
-.header{
+.header {
     display: flex;
     background-color: rgb(50, 167, 145);
-
-}
-.trybewarts-login{
+  
+  }
+  
+  .trybewarts-login {
     display: flex;
     position: absolute;
     top: 30px;
     left: 70%;
     flex-direction: row;
-}
-#principal{
+  }
+  
+  #principal {
     display: flex;
     width: 675px;
-}
-#nomeESobrenome{
+  }
+  
+  #nomeESobrenome {
     display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-}
-#emailECasa{
+    flex-flow: row nowrap;
+  }
+  
+  #emailECasa {
     display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap; 
-}
-
-#evaluation-form{
+    flex-flow: row nowrap;
+  }
+  
+  #evaluation-form {
     position: absolute;
     display: flex;
     width: 675px;
-    flex-direction: column;
-    flex-wrap: nowrap;
-}
-#trybewarts-forms-logo{
- height: 500px;
- right: 30px;
- position: absolute;
-}
-
-#input-name{
+    flex-flow: row nowrap;
+  }
+  
+  #trybewarts-forms-logo {
+    height: 500px;
+    right: 30px;
+    position: absolute;
+  }
+  
+  #input-name {
+    display: flex;
+    flex-flow: row nowrap;
+  }
+  
+  #input-lastname {
     display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
-}
-
-#input-lastname{
+  
+  }
+  
+  #label-family {
     display: flex;
     flex-direction: row;
-    
-}
-#label-family{
-    display: flex;
-    flex-direction: row;
-}
-
-.avaliacao{
+  }
+  
+  .avaliacao {
     position: relative;
     top: 200px;
     display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-}
-
-
-.texto{
+    flex-flow: row nowrap;
+  }
+  
+  
+  .texto {
     position: relative;
     top: 310px;
     right: 380px;
-}
-
-#agreement{
+  }
+  
+  #agreement {
     position: relative;
     top: 500px;
     right: 470px;
-}
-
-#label-infos{
+  }
+  
+  #label-infos {
     position: relative;
     top: 480px;
     right: 800px;
     white-space: nowrap;
-}
-#submit-btn{
-    position: relative;
-    top: 520px;
-    right: 1000px;
-    white-space: nowrap;
-}
+  }
