@@ -53,3 +53,11 @@
     display: flex;
     flex-direction: row;
 }
+
+.avaliacao{
+    position: relative;
+    top: 200px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
