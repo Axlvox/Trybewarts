@@ -61,3 +61,8 @@
     flex-direction: row;
     flex-wrap: nowrap;
 }
+.texto{
+    position: relative;
+    top: 310px;
+    right: 380px;
+}
