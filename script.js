@@ -15,3 +15,11 @@ const senhaInput = document.querySelector('.senha');
         window.alert('Email ou senha inválidos.')
     }
 });
+
+ const agreementCheckbox = document.querySelector('#agreement');
+const submitButton = document.querySelector('#submit-btn');
+const formulario = document.querySelector('form');
+
+agreementCheckbox.addEventListener('change', () => {
+submitButton.disabled = !agreementCheckbox.checked;
+});
